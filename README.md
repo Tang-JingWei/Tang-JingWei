@@ -1,9 +1,9 @@
 ### 👋 Hi there, I am Tang-Jingwei, welcome to my page! 
 [![Blibili](https://img.shields.io/badge/-Bilibili-ff69b4)](https://space.bilibili.com/649879623?spm_id_from=333.1007.0.0)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000)](https://www.youtube.com/channel/UCxgnIUNsaw5DqlOR7zAz-UQ)
-[![Instagram](https://img.shields.io/badge/%20-Bilibili%20-ff69b4)](https://space.bilibili.com/649879623?spm_id_from=333.1007.0.0)
-[![Facebook](https://img.shields.io/badge/%20-Bilibili%20-ff69b4)](https://space.bilibili.com/649879623?spm_id_from=333.1007.0.0)
-[![Github](https://img.shields.io/badge/%20-Bilibili%20-ff69b4)](https://space.bilibili.com/649879623?spm_id_from=333.1007.0.0)
+[![Instagram](https://img.shields.io/badge/-Instagram-EB2DDE)](https://www.instagram.com/tang.jingwe)
+[![Facebook](https://img.shields.io/badge/-FaceBook-blue)](https://www.facebook.com/profile.php?id=100025847011164)
+[![Github](https://img.shields.io/badge/-Github-black)](https://github.com/Tang-JIngWei)
 
 - 📫 How to reach me: 
    - 1、QQ: 2752888902
