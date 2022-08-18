@@ -6,12 +6,17 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-EB2DDE)](https://www.instagram.com/tang.jingwe)
 [![Facebook](https://img.shields.io/badge/-FaceBook-blue)](https://www.facebook.com/profile.php?id=100025847011164)
 
+
 - 📫 How to reach me: 
    - 1、QQ: 2752888902
    - 2、QQ-mail: 2752888902@qq.com
    - 3、G-mail: tangjingwei2002@gmail.com
 - 🌱 I’m currently learning OpenCv.
 - 👯 I’m looking to collaborate on my lab managing system project(EleLabSys).
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
+
 ![1283](https://user-images.githubusercontent.com/51443742/185287150-14d4f118-9576-4b27-8391-e6e6e707ee51.png) <!-- 签名 -->
 
 <!--
