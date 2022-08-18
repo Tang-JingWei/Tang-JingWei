@@ -14,10 +14,9 @@
 - 🌱 I’m currently learning OpenCv.
 - 👯 I’m looking to collaborate on my lab managing system project(EleLabSys).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
+ ![43172b22243917 5630f07edae58](https://user-images.githubusercontent.com/51443742/185304833-25af6fc6-db39-4adc-a9ba-3402ea0521d0.gif) <!-- Gif -->
 
-![1283](https://user-images.githubusercontent.com/51443742/185287150-14d4f118-9576-4b27-8391-e6e6e707ee51.png) <!-- 签名 -->
+ ![1283](https://user-images.githubusercontent.com/51443742/185287150-14d4f118-9576-4b27-8391-e6e6e707ee51.png) <!-- 签名 -->
 
 <!--
 **Tang-JIngWei/Tang-JingWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
