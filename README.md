@@ -6,13 +6,11 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-EB2DDE)](https://www.instagram.com/tang.jingwe)
 [![Facebook](https://img.shields.io/badge/-FaceBook-blue)](https://www.facebook.com/profile.php?id=100025847011164)
 
-- 📫 How to reach me: 
-   | Connect | address |
-   | :---:  |    :---:      |
-   | QQ | 2752888902 |
-   | Wechat | t19848150680 |
-   | QQ-mail | 2752888902@qq.com |
-   | G-mail | tangjingwei2002@gmail.com |
+- 📫 My E-mail: 
+  | E-mail  |
+  | :---: |
+  | 2752888902@qq.com |
+  | tangjingwei2002@gmail.com |
 - 🌱 I’m currently learning OpenCv.
 - 👯 I’m looking to collaborate on my lab managing system project(EleLabSys).
 
