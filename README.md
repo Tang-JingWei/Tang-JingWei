@@ -5,9 +5,7 @@
    - 3、G-mail: tangjingwei2002@gmail.com
 - 🌱 I’m currently learning OpenCv.
 - 👯 I’m looking to collaborate on my lab managing system project(EleLabSys).
-![1283](https://user-images.githubusercontent.com/51443742/185287150-14d4f118-9576-4b27-8391-e6e6e707ee51.png)
-
-![name](https://user-images.githubusercontent.com/51443742/185287169-235f4d2c-3c25-4ab2-876c-83a9d5addd72.jpg)
+![1283](https://user-images.githubusercontent.com/51443742/185287150-14d4f118-9576-4b27-8391-e6e6e707ee51.png) <!-- 签名 -->
 
 <!--
 **Tang-JIngWei/Tang-JingWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
