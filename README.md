@@ -1,10 +1,10 @@
-👋 Hi there, I am Tang-Jingwei, welcome to my page!
-📫 How to reach me: 
-    1、QQ: 2752888902
-    2、QQ-mail: 2752888902@qq.com
-    3、G-mail: tangjingwei2002@gmail.com
-🌱 I’m currently learning OpenCv.
-👯 I’m looking to collaborate on my lab managing system project(EleLabSys).
+-👋 Hi there, I am Tang-Jingwei, welcome to my page!
+-📫 How to reach me: 
+-    1、QQ: 2752888902
+-    2、QQ-mail: 2752888902@qq.com
+-    3、G-mail: tangjingwei2002@gmail.com
+-🌱 I’m currently learning OpenCv.
+-👯 I’m looking to collaborate on my lab managing system project(EleLabSys).
 
 
 <!--
