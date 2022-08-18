@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-lightgrey)](https://github.com/Tang-JIngWei)
 [![Blibili](https://img.shields.io/badge/-Bilibili-ff69b4)](https://space.bilibili.com/649879623?spm_id_from=333.1007.0.0)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000)](https://www.youtube.com/channel/UCxgnIUNsaw5DqlOR7zAz-UQ)
-[![Instagram](https://img.shields.io/badge/-Instagram-EB2DDE)](https://www.instagram.com/tang.jingwe)
+[![Instagram](https://img.shields.io/badge/-Instagram-EB2DDE)](https://www.instagram.com/tang.jingwei/)
 [![Facebook](https://img.shields.io/badge/-FaceBook-blue)](https://www.facebook.com/profile.php?id=100025847011164)
 
 - 📫 My E-mail: 
