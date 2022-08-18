@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning OpenCv.
 - 👯 I’m looking to collaborate on my lab managing system project(EleLabSys).
 
+![16410432123491](https://user-images.githubusercontent.com/51443742/185286881-296ed6b8-c97b-4e3d-9266-7dbba32c84e1.png)
 
 <!--
 **Tang-JIngWei/Tang-JingWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
