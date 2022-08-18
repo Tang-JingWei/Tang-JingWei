@@ -1,4 +1,5 @@
 ### 👋 Hi there, I am Tang-Jingwei, welcome to my page! 
+[![Android 12](https://img.shields.io/badge/%20-Bilibili%20-ff69b4)](https://space.bilibili.com/649879623?spm_id_from=333.1007.0.0)
 - 📫 How to reach me: 
    - 1、QQ: 2752888902
    - 2、QQ-mail: 2752888902@qq.com
