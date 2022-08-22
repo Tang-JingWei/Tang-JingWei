@@ -9,7 +9,7 @@
 - 📫 Connect me with email: 
   | ![1gsg](https://user-images.githubusercontent.com/51443742/185310760-1dd3e8c2-71c7-4c34-a15e-0a68135b5bf4.png)  <!-- 签名 -->  |
   | :---: |
-  | 2752888902@qq.com or tang-jingwei@qq.com |
+  | 2752888902@qq.com ( tang-jingwei@qq.com ) |
   | tangjingwei2002@gmail.com |
  
 - 🌱 I’m currently learning OpenCv.
